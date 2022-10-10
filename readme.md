@@ -1,0 +1,1 @@
+Galeria de fotos criada na aula de Desenvolvimento Web no dia 09/06/2022.
